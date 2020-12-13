@@ -1,9 +1,0 @@
-name: TomBuilder
-main: org.minecraftmods.tombuilder.Application
-description: Tom Builder allows you to use a stick to build walls and cubes of a given material, provided players have the materials to use!
-website: N/A
-author: Alex McGrorey
-version: 0.1
-api-version: 1.16
-prefix: TomBuilder
-commands:
