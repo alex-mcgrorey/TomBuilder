@@ -12,7 +12,7 @@ If you have the required materials in your inventory, they will be removed and u
 Note: players can only build through dirt and air, so use dirt blocks for any disposable marks within your construction zone.  Any blocks overwitten will NOT be returned!
 
 ### Installation
-1. Run `mvn clean package` to build a .jar in the `./target` directory
+1. Run `mvn clean package` to build a .jar in the `./target` directory (Or just download it from the root folder in Github)
 2. Place the resulting .jar (`TomBuilder-<version>-RELEASE.jar`) in your Spigot Server's `./plugins` folder
 3. Start your server normally
 4. Get Building!
